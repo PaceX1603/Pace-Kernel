@@ -1,2 +1,7 @@
-# Pace-Kernel
-THIS IS BASIC KERNEL BUILD BY ME!
+ĐÂY LÀ KERNEL DO 1 THẰNG NHÓC 12 TUỔI VIẾT , CÓ LỖI SAI XIN ĐỪNG MẮNG 🥺🥺
+THIS IS A KERNEL BUILDED BY A 12 YEAR OLD BOY, IF THERE ARE MISTAKES, PLEASE DON'T SCOLD ME 🥺🥺
+Pi.c/h (Print and Input)
+Kernel.c (Kernel)
+sc.c/h (SysCall)
+sl.c/h (Shell)
+THIS IS BASIC KERNEL !
